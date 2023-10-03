@@ -1,16 +1,2 @@
 # alura_flutter_curso_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple Flutter application project, made during the course [Flutter: Widgets, Stateless, Stateful, Animations made on Aluras'Plataform](https://cursos.alura.com.br/certificate/153efc5e-2cca-46c9-a91d-ad0c8aac6b27?lang=en)
